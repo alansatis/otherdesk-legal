@@ -7,9 +7,17 @@ Every change to a published page gets a new version here and a git tag (`vMAJOR.
 
 Each version is published with the app build whose behaviour it describes, never before it.
 
-## v2.0 — [date of app release 1.1.0] (Privacy Policy, Android and iOS)
+## v2.0 — [date of app release 1.1.0] (Privacy Policy and Terms, Android and iOS)
+
+Terms of Service:
+- the app is free and funded by ads (Google AdMob); third-party ad content and links;
+- the 72-hour access and Pro are no longer sold; existing Pro subscriptions keep renewing until cancelled.
+
+Privacy Policy:
 
 Ads in the app (Google AdMob), so this is a major version:
+- two legal bases: consent to store or read information on the device and for personalised ads; legitimate interest for limited ads shown without consent, with the right to object;
+- Google AdMob described as an independent controller, outside the list of providers acting on our behalf; other ad technology providers managed in the consent form; links to Google's partner-sites and ads pages; retention by Google;
 - new data: the device's advertising ID and basic device and usage information, collected by Google AdMob;
 - new recipient: Google AdMob (United States);
 - new section 5, Advertising: where ads appear, Google's consent form before any ad, non-personalised ads without consent, Profile › Privacy and ads to change the choice;
