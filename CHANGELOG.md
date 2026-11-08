@@ -7,6 +7,16 @@ Every change to a published page gets a new version here and a git tag (`vMAJOR.
 
 Each version is published with the app build whose behaviour it describes, never before it.
 
+## v2.0 — [date of app release 1.1.0] (Android Privacy Policy only)
+
+Ads in the Android app (Google AdMob), so this is a major version:
+- new data: the device's advertising ID and basic device and usage information, collected by Google AdMob;
+- new recipient: Google AdMob (United States);
+- new section 5, Advertising: where ads appear, Google's consent form before any ad, non-personalised ads without consent, Profile › Privacy and ads to change the choice;
+- sections 6–13 renumbered.
+
+The iOS pages are unchanged: the iOS app shows no ads.
+
 ## v1.1 — 6 October 2026
 
 One version of each page per store, so each only names the store it is published on:
