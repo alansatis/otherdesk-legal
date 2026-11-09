@@ -17,15 +17,18 @@ Terms of Service:
 Privacy Policy:
 
 Ads in the app (Google AdMob), so this is a major version:
-- two legal bases: consent to store or read information on the device and for personalised ads; legitimate interest for limited ads shown without consent, with the right to object;
+- two legal bases: consent to store or read information on the device (and, on Android, for personalised ads); legitimate interest for limited ads shown without consent, with the right to object;
 - Google AdMob described as an independent controller, outside the list of providers acting on our behalf; other ad technology providers managed in the consent form; links to Google's partner-sites and ads pages; retention by Google;
 - new data: the device's advertising ID and basic device and usage information, collected by Google AdMob;
 - new recipient: Google AdMob (United States);
 - location: a check-in sends the device position to our server once, to confirm it is within 100 metres of the venue; the position is not stored. Checking in now needs location access;
-- new section 5, Advertising: where ads appear, Google's consent form before any ad, non-personalised ads without consent, Profile › Privacy and ads to change the choice;
+- new section 5, Advertising: where ads appear and which are marked "Ad"; Google's consent form before any ad where the law requires it (EEA, UK, Switzerland); limited ads without consent; Profile › Privacy and ads to change the choice;
 - sections 6–13 renumbered;
 - iOS: the app never shows Apple's tracking prompt, so no IDFA and no ads personalised from activity elsewhere;
-- Android: personalised ads only with consent, using the advertising ID.
+- Android: in the EEA, UK and Switzerland, personalised ads and the advertising ID only with consent; elsewhere Google may use the advertising ID under its own policies;
+- usage analytics (PostHog, opt-in) are linked to the account ID once signed in, including the venues viewed, checked in at and saved; they are deleted from PostHog when the account is deleted (also on the Delete account page, now v2.0);
+- RevenueCat receives the account ID at sign-in;
+- location: asked when the app first opens; the map opens on the area you are in; distances show "—" without location.
 
 ## v1.1 — 6 October 2026
 
