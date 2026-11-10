@@ -25,6 +25,7 @@ Ads in the app (Google AdMob), so this is a major version:
 - new section 5, Advertising: where ads appear and which are marked "Ad"; Google's consent form before any ad where the law requires it (EEA, UK, Switzerland); limited ads without consent; Profile › Privacy and ads to change the choice;
 - sections 6–13 renumbered;
 - iOS: the app never shows Apple's tracking prompt, so no IDFA and no ads personalised from activity elsewhere;
+- iOS: the App Store has never sold a plan, so the iOS pages no longer describe App Store purchases, cancelling in App Store settings or Apple as a payment processor; a plan bought on another platform is managed where it was bought;
 - Android: in the EEA, UK and Switzerland, personalised ads and the advertising ID only with consent; elsewhere Google may use the advertising ID under its own policies;
 - usage analytics (PostHog, opt-in) are linked to the account ID once signed in, including the venues viewed, checked in at and saved; they are deleted from PostHog when the account is deleted (also on the Delete account page, now v2.0);
 - RevenueCat receives the account ID at sign-in;
